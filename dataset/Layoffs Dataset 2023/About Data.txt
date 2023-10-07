@@ -1,0 +1,38 @@
+About this file
+This data is scraped from the original source https://layoffs.fyi
+
+Company
+Name of the Company
+
+Location_HQ
+Location of the Company
+
+Industry
+Type of Industry the company is
+
+Percentage
+Total count
+
+Date
+Percentage of layoff
+
+Source
+Date of layoff
+
+Funds_Raised
+Data gathered from source
+
+Stage
+Total funds raised
+
+Date_Added
+Stage of the company
+
+Country
+data added in database
+
+Laid_Off_Count
+Country of company located
+
+List_of_Employees_Laid_Off
+link to g_docs of employee list
