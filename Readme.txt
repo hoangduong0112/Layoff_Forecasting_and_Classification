@@ -1,1 +1,0 @@
-https://colab.research.google.com/drive/1-mfyXrs5qosBxTn4ifuprXPfRvU1f1q2?authuser=1&hl=vi#scrollTo=QjrK1PtRDVBJ
